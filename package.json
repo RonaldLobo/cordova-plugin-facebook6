@@ -1,0 +1,44 @@
+{
+  "name": "cordova-plugin-facebook5",
+  "version": "1.9.1",
+  "description": "Cordova Facebook SDK 4 Plugin",
+  "cordova": {
+    "id": "cordova-plugin-facebook5",
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenguyentrang/cordova-plugin-facebook5.git"
+  },
+  "keywords": [
+    "cordova",
+    "facebook",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-browser",
+    "facebook-sdk",
+    "social",
+    "sharing"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lenguyentrang/cordova-plugin-facebook5/issues"
+  },
+  "homepage": "https://github.com/lenguyentrang/cordova-plugin-facebook5#readme",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Le Nguyen Trang"
+}
